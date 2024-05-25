@@ -1,0 +1,35 @@
+body{
+    background-color: darkgray;
+}
+#box{
+    width:auto;
+    height:auto;
+    padding:40px;
+    background:grey;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+
+h1{
+    color:white;
+}
+.body{
+    color: white;
+}
+.question{
+    color:white;
+    text-align: center;
+}
+#forgive{
+    margin: 0;
+    position: absolute;
+    left:50%;
+    transform:translateX(-50%);
+  
+}
+button:hover {
+    cursor: pointer;
+    background: #053056;
+    }
